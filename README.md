@@ -1,4 +1,4 @@
-# false-data-injection-attack-using-lstm-python
+# False Data Injection Attack (FDIA) with Long Sort Term Memory (LSTM) using Python
 
 ## Time Series: Adversarial Attacks Data (Dataset)
 #### API that used in this Project:
@@ -22,4 +22,21 @@
 #### The loss and Accuracy of the LSTM Model (Without FDIA) are Plotted
 ![3_1](https://user-images.githubusercontent.com/74346775/195322800-a7eff69b-19ce-44ef-8da9-5f97554bb1c4.PNG)
 ![3_2](https://user-images.githubusercontent.com/74346775/195322814-8479ff5f-50f8-4e8e-912b-bfcb0e7838f5.PNG)
+
+#### Display Dataset With FDIA Attack: Adversarial Attacks Data (Time Series)
+![4](https://user-images.githubusercontent.com/74346775/195323718-ee8db081-629f-4d3a-a031-6d30ae7f67a9.PNG)
+
+#### The Accuracy of the LSTM Model (Within FDIA) are Plotted
+![5_0](https://user-images.githubusercontent.com/74346775/195323836-5304a4b2-a74c-4202-b02d-bce57efa8e97.PNG)
+
+#### The loss and Accuracy of the LSTM Model (Within FDIA) are Plotted
+![4_1](https://user-images.githubusercontent.com/74346775/195323915-0f127e1c-b71d-4c1e-8345-f0fc5a63a04a.PNG)
+![4_2](https://user-images.githubusercontent.com/74346775/195323935-4990e132-1644-41a1-b60c-00adcbc2e704.PNG)
+
+#### Comparison of Models: Normal LSTM Model and FDIA LSTM Model
+![6_1](https://user-images.githubusercontent.com/74346775/195324493-fb59355f-141e-4c4f-9d30-df301a62146a.PNG)
+![6_2](https://user-images.githubusercontent.com/74346775/195324495-6d713169-c232-4aef-bafa-24400bfc875f.PNG)
+
+
+
 
