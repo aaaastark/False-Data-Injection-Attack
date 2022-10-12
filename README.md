@@ -1,4 +1,4 @@
-# False Data Injection Attack (FDIA) with Long Sort Term Memory (LSTM) using Python
+# False Data Injection Attack (FDIA) with Long Sort Term Memory (LSTM) Model using Python
 
 ## Time Series: Adversarial Attacks Data (Dataset)
 #### API that used in this Project:
