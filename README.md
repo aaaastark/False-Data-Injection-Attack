@@ -1,5 +1,10 @@
 # False Data Injection Attack (FDIA) with Long Sort Term Memory (LSTM) Model using Python
 
+#### Get Started with Relevant Project Implementation
+- If you're looking for assistance with a project implementation that aligns with your needs, feel free to get in touch with us [LinkedIn](https://www.linkedin.com/in/a-a-a-a-stark-69696617b/).
+- To get in touch with us and discuss your project implementation needs, please send an email to [4444stark@gmail.com](mailto:4444stark@gmail.com).
+- Thank you for considering our services. We look forward to working with you!
+
 The dependence on advanced information and communication technology increases the vulnerability in smart grids under cyber-attacks. Recent research on unobservable false data injection attacks (FDIAs) reveals the high risk of secure system operation, since these attacks can bypass current bad data detection mechanisms. To mitigate this risk, here we proposed this project a data-driven learning-based Long Short Term Memory (LSTM) algorithm for detecting unobservable FDIAs in systems.
 
 ![0](https://user-images.githubusercontent.com/74346775/195329042-38bf19a8-688b-4a65-bd02-1b65d15552a7.PNG)
